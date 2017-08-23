@@ -1,4 +1,4 @@
 {
-	"dbPath": "mongodb://localhost/victor",
-	"port": 8000
+	"dbPath": "mongodb://victor:victor@ds157233.mlab.com:57233/victor",
+	"port": 57233
 }
