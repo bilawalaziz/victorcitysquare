@@ -29,5 +29,7 @@
     "request": "^2.81.0",
     "restify": "^4.3.0"
   },
-  "start": "node app.js"
+  "scripts": {
+    "start": "node app.js"
+  }
 }
