@@ -2,7 +2,7 @@
   "name": "team-victor-service",
   "version": "1.0.0",
   "description": "iptk project lab",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "test": "make test"
   },
@@ -29,6 +29,7 @@
     "request": "^2.81.0",
     "restify": "^4.3.0"
   },
+  "main": "app.js",
   "scripts": {
     "start": "node app.js"
   }
