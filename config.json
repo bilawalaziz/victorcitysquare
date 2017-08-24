@@ -1,5 +1,5 @@
 {
 	"dbPath": "mongodb://victor:victor@ds157233.mlab.com:57233/victor",
 	"port": 57233,
-	"git_url":"https://github.com/bilawalaziz/victorcitysquare.git",
+	"git_url":"https://github.com/bilawalaziz/victorcitysquare.git"
 }
