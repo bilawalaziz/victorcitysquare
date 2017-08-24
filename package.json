@@ -5,10 +5,8 @@
   "main": "app.js",
   "engines": {
     "node": "6.11.1"
-  }
-  "scripts": {
-    "test": "make test"
   },
+ 
   "author": "Rabeea Sehar, Bilawal Aziz, Rafique Nazir, Mujahid Masood",
   "license": "ISC",
   "devDependencies": {
