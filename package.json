@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "iptk project lab",
   "main": "app.js",
+  "engines": {
+    "node": "6.11.1"
+  }
   "scripts": {
     "test": "make test"
   },
