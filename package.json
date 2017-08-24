@@ -32,8 +32,6 @@
   },
   "main": "app.js",
   "scripts": {
-	"heroku-prebuild": "echo This runs before Heroku installs your dependencies.",
-	"heroku-postbuild": "echo This runs afterwards.",
-    "start": "node app.js",
+	"start": "node app.js"
   }
 }
